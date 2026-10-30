@@ -1,10 +1,92 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Mikroskop",
+    "kategori": "Alat Optik",
+    "kodeAlat": "OPT001",
+    "jumlah": 4,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "2",
+    "judul": "Gelas Beaker",
+    "kategori": "Alat Gelas",
+    "kodeAlat": "GLS001",
+    "jumlah": 30,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "3",
+    "judul": "Tabung Reaksi",
+    "kategori": "Alat Gelas",
+    "kodeAlat": "GLS002",
+    "jumlah": 21,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "4",
+    "judul": "Pipet Tetes",
+    "kategori": "Alat Ukur dan Transfer",
+    "kodeAlat": "TRF001",
+    "jumlah": 35,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "5",
+    "judul": "Buret",
+    "kategori": "Alat Ukur dan Transfer",
+    "kodeAlat": "TRF002",
+    "jumlah": 15,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "6",
+    "judul": "Neraca Digital",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR001",
+    "jumlah": 3,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "7",
+    "judul": "Termometer",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR002",
+    "jumlah": 7,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "8",
+    "judul": "Hot Plate",
+    "kategori": "Alat Pemanas",
+    "kodeAlat": "PMS002",
+    "jumlah": 9,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "9",
+    "judul": "Lup",
+    "kategori": "Alat Optik",
+    "kodeAlat": "OPT002",
+    "jumlah": 10,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "10",
+    "judul": "Tanur",
+    "kategori": "Alat Pemanas",
+    "kodeAlat": "PMS002",
+    "jumlah": 3,
+    "kondisi": "Baik"
   }
 ]
+
