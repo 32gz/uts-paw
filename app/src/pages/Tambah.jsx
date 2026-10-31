@@ -33,11 +33,11 @@ export default function Tambah() {
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
-        <option>Alat Optik</option>
-        <option>Alat Gelas</option>
-        <option>Alat Ukur dan Transfer</option>
+        <option>Komputer</option>
+        <option>Jaringan</option>
+        <option>Multimedia</option>
+        <option>Elektronika</option>
         <option>Alat Ukur</option>
-        <option>Alat Pemanas</option>
       </select>
 
       <label htmlFor="kodeAlat">Kode Alat</label>

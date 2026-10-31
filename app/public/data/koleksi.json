@@ -1,91 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Mikroskop",
-    "kategori": "Alat Optik",
-    "kodeAlat": "OPT001",
-    "jumlah": 4,
+    "judul": "Komputer",
+    "kategori": "Komputer",
+    "kodeAlat": "KOM001",
+    "jumlah": 20,
     "kondisi": "Baik"
   },
 
   {
     "id": "2",
-    "judul": "Gelas Beaker",
-    "kategori": "Alat Gelas",
-    "kodeAlat": "GLS001",
-    "jumlah": 30,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "3",
-    "judul": "Tabung Reaksi",
-    "kategori": "Alat Gelas",
-    "kodeAlat": "GLS002",
-    "jumlah": 21,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "4",
-    "judul": "Pipet Tetes",
-    "kategori": "Alat Ukur dan Transfer",
-    "kodeAlat": "TRF001",
-    "jumlah": 35,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "5",
-    "judul": "Buret",
-    "kategori": "Alat Ukur dan Transfer",
-    "kodeAlat": "TRF002",
+    "judul": "Laptop",
+    "kategori": "Komputer",
+    "kodeAlat": "KOM002",
     "jumlah": 15,
     "kondisi": "Baik"
   },
 
   {
-    "id": "6",
-    "judul": "Neraca Digital",
-    "kategori": "Alat Ukur",
-    "kodeAlat": "UKR001",
-    "jumlah": 3,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "7",
-    "judul": "Termometer",
-    "kategori": "Alat Ukur",
-    "kodeAlat": "UKR002",
-    "jumlah": 7,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "8",
-    "judul": "Hot Plate",
-    "kategori": "Alat Pemanas",
-    "kodeAlat": "PMS002",
-    "jumlah": 9,
-    "kondisi": "Baik"
-  },
-
-  {
-    "id": "9",
-    "judul": "Lup",
-    "kategori": "Alat Optik",
-    "kodeAlat": "OPT002",
+    "id": "3",
+    "judul": "Router",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR001",
     "jumlah": 10,
     "kondisi": "Baik"
   },
 
   {
-    "id": "10",
-    "judul": "Tanur",
-    "kategori": "Alat Pemanas",
-    "kodeAlat": "PMS002",
+    "id": "4",
+    "judul": "Switch",
+    "kategori": "Jaringan",
+    "kodeAlat": "JAR002",
+    "jumlah": 7,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "5",
+    "judul": "Printer",
+    "kategori": "Multimedia",
+    "kodeAlat": "MUL001",
     "jumlah": 3,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "6",
+    "judul": "Speaker",
+    "kategori": "Multimedia",
+    "kodeAlat": "MUL002",
+    "jumlah": 4,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "7",
+    "judul": "Arduino Uno",
+    "kategori": "Elektronika",
+    "kodeAlat": "ELK001",
+    "jumlah": 20,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "8",
+    "judul": "Raspberry Pi",
+    "kategori": "Elektronika",
+    "kodeAlat": "ELK002",
+    "jumlah": 20,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "9",
+    "judul": "Power Meter",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR001",
+    "jumlah": 8,
+    "kondisi": "Baik"
+  },
+
+  {
+    "id": "10",
+    "judul": "USB Tester",
+    "kategori": "Alat Ukur",
+    "kodeAlat": "UKR002",
+    "jumlah": 6,
     "kondisi": "Baik"
   }
 ]
