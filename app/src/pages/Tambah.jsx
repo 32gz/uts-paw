@@ -42,7 +42,6 @@ export default function Tambah() {
 
       <label htmlFor="kodeAlat">Kode Alat</label>
       <input id="kodeAlat" name="kodeAlat" value={form.kodeAlat} onChange={ubah} />
-      {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="jumlah">Jumlah</label>
       <input id="jumlah" type="number" min="0" name="jumlah" value={form.jumlah} onChange={ubah} />
