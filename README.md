@@ -1,10 +1,10 @@
 # Inventaris Laboratorium
 
-Nama: Khairul Rijal Syauqi
-NIM: 123140143
-Kelas: RB
-Tema: Inventaris Laboratorium
-Deployment: https://32gz.github.io/uts-paw/
+Nama: Khairul Rijal Syauqi  
+NIM: 123140143  
+Kelas: RB  
+Tema: Inventaris Laboratorium  
+Deployment: https://32gz.github.io/uts-paw/  
 
 ## Screenshots
 
